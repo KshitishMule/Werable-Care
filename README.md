@@ -190,21 +190,6 @@ The platform is designed for self-hosting, meaning each deployment serves a sing
 - AI Health Assistant
 - Enhanced widget integration
 
-## Join the Discord
-
-Join our Discord community to connect with other developers, get help, share ideas, and stay updated on the latest developments:
-
-[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/qrcfFnNE6H)
-
-## Contributing
-
-Contributions are welcome! This project aims to be a community-driven solution for wearable data integration.
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details on:
-- 🛠️ Setting up the development environment
-- 📝 Code style and testing requirements
-- 🔀 Pull request process
-
 ## License
 
 [MIT License](LICENSE) - Use it freely in commercial and open-source projects.
