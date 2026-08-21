@@ -64,8 +64,8 @@ Get Open Wearables up and running in minutes.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/the-momentum/open-wearables.git
-   cd open-wearables
+   git clone https://github.com/KshitishMule/Werable-Care
+   cd Into the folder
    ```
 
 2. **Configure environment variables:**
